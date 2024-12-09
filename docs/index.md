@@ -196,6 +196,6 @@ doesn’t provide for any liability on the part of the Laboratory.
 2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t
    deprive the Laboratory administration of the right to apply it.
 3. Agreement with the Policy is not required for participation in the Policy Scope.
-4. Disagreement with the Policy is not the basis for any sanctions against a member of the Policy Scope.
+4. Disagreement with the Policy is not the basis for any sanctions against members of the Policy Scope.
 5. Publication of Policy Objects those aren’t consistent with the Policy in materials,
    comments and / or news feeds of the Policy Scope may be limited or terminated at decision of the administration.
