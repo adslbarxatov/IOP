@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (RD AAOW FDL IOP) ```rev. 1```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP) ```rev. 1```
 
 &nbsp;
 
@@ -28,7 +28,7 @@ materials and developments of the Laboratory.
 ***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) are all communities, channels and hostings
 managed by the Laboratory, the Laboratory itself, as well as all Policy Objects.
 
-This Policy (IOP), its regulations, conclusion, the end-user license agreement and application order are describing general rules
+This Policy (IOP), its Regulations, Conclusion, the End-user license agreement and Application order are describing general rules
 that Laboratory follows in its work and when developing, maintaining and using Policy Objects.
 
 ***The Policy is required to be acquainted with by all participants of the Policy Scope and users before using any of the Policy Objects.
@@ -192,7 +192,7 @@ doesn’t provide for any liability on the part of the Laboratory.
 # Application order
 
 1. In the event that any Policy Object conflicts (even if fully compliant with it) with
-   the Community Regulations, they will take precedence over the Product Regulations in handling the conflict .
+   the Community regulations, they will take precedence over the Product regulations in handling the conflict.
 2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t
    deprive the Laboratory administration of the right to apply it.
 3. Agreement with the Policy is not required for participation in the Policy Scope.
