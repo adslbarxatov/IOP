@@ -6,14 +6,14 @@
 
 # Contents
 - [Clauses of the Policy](#clauses-of-the-policy)
-- [Версия на русском языке](https://adslbarxatov.github.io/ADP/privacy_ru)
-- [Back to ADP](https://adslbarxatov.github.io/ADP)
+- [Версия на русском языке](https://adslbarxatov.github.io/IOP/privacy_ru)
+- [Back to IOP](https://adslbarxatov.github.io/IOP)
 
 &nbsp;
 
 
 
-This Policy is an actual extension of the [Applications development policy](https://adslbarxatov.github.io/ADP),
+This Policy is an actual extension of the [Integrated operational policy (IOP)](https://adslbarxatov.github.io/IOP),
 which provides a more detailed description of our privacy practices.
 
 ***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including software),
@@ -23,11 +23,11 @@ materials and developments of the Laboratory.
 
 # Clauses of the Policy
 
-### 1. According to p. 4 of the Applications development policy:
+### 1. According to Product regulation #4 of the IOP:
 - Policy Objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
   of third-party content). All features of Objects are described in user guides and / or project summaries.
 
-### 2. According to p. 5 of the Applications development policy:
+### 2. According to Product regulation #5 of the IOP:
 - Policy Objects have no algorithms for collecting,
   accumulating or transferring of personal information. All data used by Policy Objects doesn’t leave the user device.
 

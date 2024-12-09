@@ -25,7 +25,7 @@
 ***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including software),
 materials and developments of the Laboratory.
 
-***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) are all communities, channels and hostings
+***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) is all communities, channels and hostings
 managed by the Laboratory, the Laboratory itself, as well as all Policy Objects.
 
 This Policy (IOP), its Regulations, Conclusion, the End-user license agreement and Application order are describing general rules
@@ -116,7 +116,7 @@ Advertisements in the Policy Scope are only allowed in case described in Product
 ### 4. No payments and / or restrictions for content are permitted
 
 All texts, pictures, diagrams, datasets and other information objects (including the Policy Objects)
-are provided by the Lab to members and privided by members to the Laboratory free of any copyrights and without
+are provided by the Lab to members and provided by members to the Laboratory free of any copyrights and without
 any payments, explicit and implied. *All related rights issues are resolved by sender by himself before submitting of content.
 Non-free content is removed from free access*.
 
