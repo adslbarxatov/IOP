@@ -2,7 +2,9 @@
 
 ### IOP
 
-`rev. 1`: integration of ADP and SCP  from 09.12.24
+`rev. 1`: integration of ADP and SCP from 09.12.24
+
+`rev. 2`: paragraph numbering and specifications update from 22.12.24
 
 &nbsp;
 
