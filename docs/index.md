@@ -20,25 +20,24 @@
 
 
 
-# Introduction
+# 1. Introduction
 
-***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including software),
+⁽¹⁾ ***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including software),
 materials and developments of the Laboratory.
 
-***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) is all communities, channels and hostings
+⁽²⁾ ***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) is all communities, channels and hostings
 managed by the Laboratory, the Laboratory itself, as well as all Policy Objects.
 
-This Policy (IOP), its Regulations, Conclusion, the End-user license agreement and Application order are describing general rules
+⁽³⁾ This Policy (IOP), its Regulations, Conclusion, the End-user license agreement and Application order are describing general rules
 that Laboratory follows in its work and when developing, maintaining and using Policy Objects.
 
-***The Policy is required to be acquainted with by all participants of the Policy Scope and users before using any of the Policy Objects.
-By starting to work with them, you fully agree with this Policy and accept it!***
+⁽⁴⁾ ***The Policy is required to be acquainted with by all participants of the Policy Scope and users before using any of the Policy Objects. By starting to work with them, you fully agree with this Policy and accept it!***
 
 &nbsp;
 
 
 
-# Product regulations
+# 2. Product regulations
 
 ### 1. We work on free base
 
@@ -84,7 +83,7 @@ All Policy Objects have developer support. All users can ask for help and suppor
 
 
 
-# Community regulations
+# 3. Community regulations
 
 ### 1. Lab is against of hurting
 
@@ -127,9 +126,9 @@ is listed as the creator of the content.
 
 
 
-# Conclusion
+# 4. Conclusion
 
-Clauses of the Policy derive one from another and guarantee that:
+⁽⁰⁾ Clauses of the Policy derive one from another and guarantee that:
 1. The Lab does not include payments, advertising, hidden and / or unannounced features, uncontrolled updates,
    de-anonymization features, and other items in Policy Objects that are inconsistent with this Policy.
 2. The Lab welcomes cooperation with users offering assistance or requiring assistance in the development and / or
@@ -144,42 +143,41 @@ Clauses of the Policy derive one from another and guarantee that:
 
 
 
-# XPUN control
+# 5. XPUN control
 
-Since 2020, some governments have introduced certain restrictive laws of disintegration nature in their territories
+⁽¹⁾ Since 2020, some governments have introduced certain restrictive laws of disintegration nature in their territories
 that are incompatible with this Policy. The Laboratory sees it as its task to avoid any conflicts associated with
 this discrepancy. The only way to do this, available at the time of publication of this Policy revision, is to make
-all Policy Objects unavailable in those areas.
+all Policy Objects unavailable in those areas. In this regard, **XPUN control** was developed.
 
-In this regard, **XPUN control** was developed. The current version of the Policy defines that:
-- This algorithm is present in all actual Policy Objects except those covered by other licenses and policies that override this Policy. Namely:
-    - ESHQ mod
-    - ES: Randomaze mod
-    - Crazy cheater’s mod
-- Its only function is to restrict the launch of Policy Objects in the following territories:
-    - Belgium
-    - Canada
-    - Czech Republic
-    - Denmark
-    - Estonia
-    - Germany
-    - Ireland
-    - Japan
-    - Latvia
-    - Lithuania
-    - Luxembourg
-    - Netherlands
-    - Norway
-    - Switzerland
-    - United Kingdom
+⁽²⁾ This algorithm is present in all actual Policy Objects except those covered by other licenses and policies that override this Policy. Namely:
+- ESHQ mod
+- ES: Randomaze mod
+
+⁽³⁾ The only function of XPUN is to restrict the launch of Policy Objects in the following territories:
+- Belgium
+- Canada
+- Czech Republic
+- Denmark
+- Estonia
+- Germany
+- Ireland
+- Japan
+- Latvia
+- Lithuania
+- Luxembourg
+- Netherlands
+- Norway
+- Switzerland
+- United Kingdom
 
 &nbsp;
 
 
 
-# End user license agreement
+# 6. End user license agreement
 
-Policy Objects and any updates are being delivered “as is”. ***Laboratory*** may try to, but
+⁽⁰⁾ Policy Objects and any updates are being delivered “as is”. ***Laboratory*** may try to, but
 ***does not and cannot warrant*** the performance, results, absence of crushes and / or data
 losses you may obtain by using them. ***All Policy Objects are used at your own risk***, without
 any guarantees and compensations, explicit and implied (except described above). The Policy
@@ -189,7 +187,7 @@ doesn’t provide for any liability on the part of the Laboratory.
 
 
 
-# Application order
+# 7. Application order
 
 1. In the event that any Policy Object conflicts (even if fully compliant with it) with
    the Community regulations, they will take precedence over the Product regulations in handling the conflict.
