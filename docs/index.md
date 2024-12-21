@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP) ```rev. 1```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP) ```rev. 2```
 
 &nbsp;
 
@@ -22,16 +22,19 @@
 
 # 1. Introduction
 
-⁽¹⁾ ***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including software),
-materials and developments of the Laboratory.
+⁽¹⁾ ***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products
+(including software), materials and developments of the Laboratory.
 
-⁽²⁾ ***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) is all communities, channels and hostings
-managed by the Laboratory, the Laboratory itself, as well as all Policy Objects.
+⁽²⁾ ***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) is all communities,
+channels and hostings managed by the Laboratory, the Laboratory itself, as well as all Policy Objects.
 
-⁽³⁾ This Policy (IOP), its Regulations, Conclusion, the End-user license agreement and Application order are describing general rules
-that Laboratory follows in its work and when developing, maintaining and using Policy Objects.
+⁽³⁾ This Policy (IOP), its Regulations, Conclusion, the End-user license agreement and Application
+order are describing general rules that Laboratory follows in its work and when developing, maintaining
+and using Policy Objects.
 
-⁽⁴⁾ ***The Policy is required to be acquainted with by all participants of the Policy Scope and users before using any of the Policy Objects. By starting to work with them, you fully agree with this Policy and accept it!***
+⁽⁴⁾ ***The Policy is required to be acquainted with by all participants of the Policy Scope and users
+before using any of the Policy Objects. By starting to work with them, you fully agree with this Policy
+and accept it!***
 
 &nbsp;
 
@@ -52,7 +55,8 @@ All references can only be activated by the user and only manually (they have no
 ### 3. We don’t use autoupdate
 
 None of Policy Objects can update its functionality without the direct participation of the user.
-Non-executable content may be updated automatically if the correct functioning of the Object becomes impossible without it.
+Non-executable content may be updated automatically if the correct functioning of the Object becomes
+impossible without it.
 
 ### 4. We don’t use hidden functionality
 
@@ -66,14 +70,15 @@ All data used by Policy Objects doesn’t leave the user device.
 
 ### 6. Our products are open-source
 
-All code and source material, which has no special restrictions, is open to all uses, except
-for the depersonalization of the ideas and solutions presented in it. Therefore, all copies
-should include the reference to at least one of Laboratory’s communities.
+All code and source material, which has no special restrictions, is open to all uses, except for the
+depersonalization of the ideas and solutions presented in it. Therefore, all copies should include
+the reference to at least one of Laboratory’s communities.
 
 ### 7. We welcome recommendations and bug reports
 
 Comments, messages, advice and wishes of users allow the Laboratory to improve the solutions created
-and are the main way to improve them. Therefore, all Policy Objects provide communication channels with the Laboratory.
+and are the main way to improve them. Therefore, all Policy Objects provide communication channels
+with the Laboratory.
 
 ### 8. We don’t leave our users
 
@@ -102,25 +107,26 @@ Cases of indirect hurting may be reviewed by Lab administration separately.
 
 ### 2. Lab doesn’t deal with “sore issues”
 
-The Policy Scope don’t allow discussions, activities and measures on social, political, economic and other topics,
-that most likely will cause counterproductive forms of activity described in Community regulation #1 of this Policy.
+The Policy Scope don’t allow discussions, activities and measures on social, political, economic
+and other topics, that most likely will cause counterproductive forms of activity described in Community
+regulation #1 of this Policy.
 
 *Forcing such discussions and activities can be grounds for a permanent ban*.
 
 ### 3. Advertisements
 
-Advertisements in the Policy Scope are only allowed in case described in Product regulation #2 of this Policy.
-*Untargeted (generic) ads elements can be grounds for a permanent ban*.
+Advertisements in the Policy Scope are only allowed in case described in Product regulation #2 of this
+Policy. *Untargeted (generic) ads elements can be grounds for a permanent ban*.
 
 ### 4. No payments and / or restrictions for content are permitted
 
-All texts, pictures, diagrams, datasets and other information objects (including the Policy Objects)
-are provided by the Lab to members and provided by members to the Laboratory free of any copyrights and without
-any payments, explicit and implied. *All related rights issues are resolved by sender by himself before submitting of content.
-Non-free content is removed from free access*.
+All texts, pictures, diagrams, datasets and other information objects (including the Policy Objects) are
+provided by the Lab to members and provided by members to the Laboratory free of any copyrights and without
+any payments, explicit and implied. *All related rights issues are resolved by sender by himself before
+submitting of content. Non-free content is removed from free access*.
 
-The indication of the content author is allowed. If there is no author information, the user who provided the content
-is listed as the creator of the content.
+The indication of the content author is allowed. If there is no author information, the user who provided
+the content is listed as the creator of the content.
 
 &nbsp;
 
@@ -150,7 +156,8 @@ that are incompatible with this Policy. The Laboratory sees it as its task to av
 this discrepancy. The only way to do this, available at the time of publication of this Policy revision, is to make
 all Policy Objects unavailable in those areas. In this regard, **XPUN control** was developed.
 
-⁽²⁾ This algorithm is present in all actual Policy Objects except those covered by other licenses and policies that override this Policy. Namely:
+⁽²⁾ This algorithm is present in all actual Policy Objects except those covered by other licenses and policies that
+override this Policy. Namely:
 - ESHQ mod
 - ES: Randomaze mod
 
@@ -189,11 +196,12 @@ doesn’t provide for any liability on the part of the Laboratory.
 
 # 7. Application order
 
-1. In the event that any Policy Object conflicts (even if fully compliant with it) with
-   the Community regulations, they will take precedence over the Product regulations in handling the conflict.
+1. In the event that any Policy Object conflicts (even if fully compliant with it) with the Community
+   regulations, they will take precedence over the Product regulations in handling the conflict.
 2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t
    deprive the Laboratory administration of the right to apply it.
 3. Agreement with the Policy is not required for participation in the Policy Scope.
 4. Disagreement with the Policy is not the basis for any sanctions against members of the Policy Scope.
 5. Publication of Policy Objects those aren’t consistent with the Policy in materials,
-   comments and / or news feeds of the Policy Scope may be limited or terminated at decision of the administration.
+   comments and / or news feeds of the Policy Scope may be limited or terminated at decision of the
+   administration.
