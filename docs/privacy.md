@@ -5,6 +5,7 @@
 
 
 # Contents
+- [Introduction](#introduction)
 - [Clauses of the Policy](#clauses-of-the-policy)
 - [Версия на русском языке](https://adslbarxatov.github.io/IOP/privacy_ru)
 - [Back to IOP](https://adslbarxatov.github.io/IOP)
@@ -13,15 +14,19 @@
 
 
 
-This Policy is an actual extension of the [Integrated operational policy (IOP)](https://adslbarxatov.github.io/IOP),
+# 1. Introduction
+
+⁽¹⁾ This Policy is an actual extension of the [Integrated operational policy (IOP)](https://adslbarxatov.github.io/IOP),
 which provides a more detailed description of our privacy practices.
 
-***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including software),
+⁽²⁾ ***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including software),
 materials and developments of the Laboratory.
 
+&nbsp;
 
 
-# Clauses of the Policy
+
+# 2. Clauses of the Policy
 
 ### 1. According to Product regulation #4 of the IOP:
 - Policy Objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
