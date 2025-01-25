@@ -6,6 +6,8 @@
 
 `rev. 2`: paragraph numbering and specifications update from 22.12.24
 
+`rev. 3 pending`: rejection of derivative products
+
 &nbsp;
 
 
