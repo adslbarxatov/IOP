@@ -111,10 +111,10 @@ regulation #1 of this Policy.
 Advertisements in the Policy Scope are only allowed in case described in Product regulation #2 of this
 Policy. *Untargeted (generic) ads elements can be grounds for a permanent ban*.
 
-### 4. No payments and / or restrictions for content are permitted
+### 4. Lab doesn’t allow payments and / or restrictions for content
 
 ⁽¹⁾ All texts, pictures, diagrams, datasets and other information objects (including the Policy Objects) are
-provided by the Lab to members and provided by members to the Laboratory free of any restrictions and without
+provided by the Laboratory to members and provided by members to the Laboratory free of any restrictions and without
 any payments, explicit and implied, subject to compliance with Product regulation #1 of this Policy.
 
 ⁽²⁾ All related rights issues are resolved by sender by himself before submitting of content. Non-free content
@@ -130,15 +130,15 @@ the content to Laboratory is listed as the creator of the content.
 # 4. Conclusion
 
 ⁽⁰⁾ Clauses of the Policy derive one from another and guarantee that:
-1. The Lab does not include payments, advertising, hidden and / or unannounced features, uncontrolled updates,
+1. The Laboratory does not include payments, advertising, hidden and / or unannounced features, uncontrolled updates,
    de-anonymization features, and other items in Policy Objects that are inconsistent with this Policy.
-2. The Lab welcomes cooperation with users offering assistance or requiring assistance in the development and / or
+2. The Laboratory welcomes cooperation with users offering assistance or requiring assistance in the development and / or
    maintenance of the main and / or subsidiary Policy Objects.
-3. Lab, as much as possible, protects members of the Policy Scope from unwanted (unrequested), inappropriate
+3. The Laboratory, as much as possible, protects members of the Policy Scope from unwanted (unrequested), inappropriate
    (that aren’t in Policy Scope’s aims) and other malicious effects that may be caused by content and activities
    described by Regulations.
-4. Lab supports all constructive discussions and critics in the Policy Scope.
-5. Lab supports all thematic content in the Policy Scope
+4. The Laboratory supports all constructive discussions and critics in the Policy Scope.
+5. The Laboratory supports all thematic content in the Policy Scope
 
 &nbsp;
 
