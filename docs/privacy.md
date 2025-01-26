@@ -16,7 +16,7 @@
 # 1. Introduction
 
 ⁽¹⁾ This Policy is an actual extension of the Integrated operational policy (IOP), which provides a more
-detailed description of Lab’s privacy practices.
+detailed description of Laboratory’s privacy practices.
 
 ⁽²⁾ ***Objects*** of this Policy (hereinafter referred to as ***Policy Objects***) are products (including
 software), materials and developments of the Laboratory.

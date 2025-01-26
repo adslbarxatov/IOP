@@ -43,35 +43,35 @@ and accept it!***
 
 # 2. Product regulations
 
-### 1. We work on free base
+### 1. Lab works on free base
 
 There are no explicit or implied payments and / or restrictions on the Policy Objects or their source
 materials, except for the prohibition on appropriation of the ideas and solutions presented therein.
 It is reflected in the annotations of the corresponding projects if Objects use components with partially
 free and / or more restrictive licenses.
 
-### 2. We don’t use ads
+### 2. Lab doesn’t use ads
 
 The Policy Objects have no promotional elements, except for references to other Policy Objects.
 All references can only be activated by the user and only manually, i.e. they have no automatic triggers.
 
-### 3. We don’t use autoupdate
+### 3. Lab doesn’t use autoupdate
 
 None of Policy Objects can update its functionality without the direct participation of the user.
 Non-executable content may be updated automatically if the correct functioning of the Object becomes
 impossible without it.
 
-### 4. We don’t use hidden functionality
+### 4. Lab doesn’t use hidden functionality
 
 Policy Objects have no code with undeclared purposes (uncontrolled updates, data collection, downloading
 of third-party content). All features of Objects are described in user guides and / or project summaries.
 
-### 5. We don’t collect personal data
+### 5. Lab doesn’t collect personal data
 
 Policy Objects have no algorithms for collecting, accumulating or transferring of personal information.
 All data used by Policy Objects doesn’t leave the user device.
 
-### 6. We welcome interaction
+### 6. Lab welcomes interaction
 
 All Policy Objects have developer support. All users can ask for help and support when using Policy Objects.
 On the other side, comments, messages, advice and wishes of users allow the Laboratory to improve
