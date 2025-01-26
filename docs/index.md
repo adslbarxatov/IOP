@@ -1,4 +1,5 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP) ```rev. 2```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP)
+*Revision #3 from January 26, 2025*
 
 &nbsp;
 
@@ -10,7 +11,7 @@
 - [Community regulations](#community-regulations)
 - [Conclusion](#conclusion)
 - [XPUN control](#xpun-control)
-- [End-user license agreement](#end-user-license-agreement)
+- [Responsibility](#responsibility)
 - [Application order](#application-order)
 - [Detailed privacy policy](https://adslbarxatov.github.io/IOP/privacy)
 - [Changelog](https://adslbarxatov.github.io/IOP/changelog)
@@ -28,7 +29,7 @@
 ⁽²⁾ ***Scope*** of this Policy (hereinafter referred to as ***Policy Scope***) is all communities,
 channels and hostings managed by the Laboratory, the Laboratory itself, as well as all Policy Objects.
 
-⁽³⁾ This Policy (IOP), its Regulations, Conclusion, the End-user license agreement and Application
+⁽³⁾ This Policy (IOP), its Regulations, Conclusion, the Responsibility and Application
 order are describing general rules that Laboratory follows in its work and when developing, maintaining
 and using Policy Objects.
 
@@ -44,13 +45,15 @@ and accept it!***
 
 ### 1. We work on free base
 
-There are no explicit or implied payments for Policy Objects. It is reflected in the annotations
-of the corresponding projects if Objects use components with partially free licenses.
+There are no explicit or implied payments and / or restrictions on the Policy Objects or their source
+materials, except for the prohibition on appropriation of the ideas and solutions presented therein.
+It is reflected in the annotations of the corresponding projects if Objects use components with partially
+free and / or more restrictive licenses.
 
 ### 2. We don’t use ads
 
-The Policy Objects have no promotional elements, except for references to the Laboratory’s own projects.
-All references can only be activated by the user and only manually (they have no automatic triggers).
+The Policy Objects have no promotional elements, except for references to other Policy Objects.
+All references can only be activated by the user and only manually, i.e. they have no automatic triggers.
 
 ### 3. We don’t use autoupdate
 
@@ -68,21 +71,12 @@ of third-party content). All features of Objects are described in user guides an
 Policy Objects have no algorithms for collecting, accumulating or transferring of personal information.
 All data used by Policy Objects doesn’t leave the user device.
 
-### 6. Our products are open-source
-
-All code and source material, which has no special restrictions, is open to all uses, except for the
-depersonalization of the ideas and solutions presented in it. Therefore, all copies should include
-the reference to at least one of Laboratory’s communities.
-
-### 7. We welcome recommendations and bug reports
-
-Comments, messages, advice and wishes of users allow the Laboratory to improve the solutions created
-and are the main way to improve them. Therefore, all Policy Objects provide communication channels
-with the Laboratory.
-
-### 8. We don’t leave our users
+### 6. We welcome interaction
 
 All Policy Objects have developer support. All users can ask for help and support when using Policy Objects.
+On the other side, comments, messages, advice and wishes of users allow the Laboratory to improve
+the solutions created. They are the main way to improve them. Therefore, all Policy Objects provide
+communication channels with the Laboratory.
 
 &nbsp;
 
@@ -93,21 +87,20 @@ All Policy Objects have developer support. All users can ask for help and suppor
 ### 1. Lab is against of hurting
 
 No malicious activities allowed in the Policy Scope, including:
-- direct offends;
-- bullying;
-- deliberate non-pecuniary harm;
-- deliberate physical damage;
-- direct threats;
-- fakes;
-- disinformation;
-- destructive criticism (that exists only for criticism and doesn’t contain constructive solutions).
+- direct offends
+- bullying
+- deliberate non-pecuniary harm
+- deliberate physical damage
+- direct threats
+- fakes
+- disinformation
+- destructive criticism (that exists only for criticism and doesn’t contain constructive offers)
 
 *Participation in them or calls for such participation may be grounds for a permanent ban*.
-Cases of indirect hurting may be reviewed by Lab administration separately.
 
 ### 2. Lab doesn’t deal with “sore issues”
 
-The Policy Scope don’t allow discussions, activities and measures on social, political, economic
+The Policy Scope do not allow discussions, activities and measures on social, political, economic
 and other topics, that most likely will cause counterproductive forms of activity described in Community
 regulation #1 of this Policy.
 
@@ -120,13 +113,15 @@ Policy. *Untargeted (generic) ads elements can be grounds for a permanent ban*.
 
 ### 4. No payments and / or restrictions for content are permitted
 
-All texts, pictures, diagrams, datasets and other information objects (including the Policy Objects) are
-provided by the Lab to members and provided by members to the Laboratory free of any copyrights and without
-any payments, explicit and implied. *All related rights issues are resolved by sender by himself before
-submitting of content. Non-free content is removed from free access*.
+⁽¹⁾ All texts, pictures, diagrams, datasets and other information objects (including the Policy Objects) are
+provided by the Lab to members and provided by members to the Laboratory free of any restrictions and without
+any payments, explicit and implied, subject to compliance with Product regulation #1 of this Policy.
 
-The indication of the content author is allowed. If there is no author information, the user who provided
-the content is listed as the creator of the content.
+⁽²⁾ All related rights issues are resolved by sender by himself before submitting of content. Non-free content
+is removed from Policy Scope.
+
+⁽³⁾ The indication of the content author is allowed. If there is no author information, the user who provided
+the content to Laboratory is listed as the creator of the content.
 
 &nbsp;
 
@@ -182,13 +177,21 @@ override this Policy. Namely:
 
 
 
-# 6. End user license agreement
+# 6. Responsibility
 
-⁽⁰⁾ Policy Objects and any updates are being delivered “as is”. ***Laboratory*** may try to, but
+⁽¹⁾ Policy Objects and any updates are being delivered “as is”. ***Laboratory*** may try to, but
 ***does not and cannot warrant*** the performance, results, absence of crushes and / or data
 losses you may obtain by using them. ***All Policy Objects are used at your own risk***, without
 any guarantees and compensations, explicit and implied (except described above). The Policy
 doesn’t provide for any liability on the part of the Laboratory.
+
+⁽²⁾ Also, this Policy ***does not apply*** to Policy Objects that:
+- Were published outside the Policy Scope without the participation of the Laboratory
+- Were modified in any way relative to the official releases of the Laboratory (adding
+  and / or removing elements and / or functions, changing the internal composition, functionality
+  and / or external presentation)
+
+***The Laboratory does not and cannot guarantee the compliance of such Objects with this Policy***.
 
 &nbsp;
 
@@ -196,8 +199,9 @@ doesn’t provide for any liability on the part of the Laboratory.
 
 # 7. Application order
 
-1. In the event that any Policy Object conflicts (even if fully compliant with it) with the Community
-   regulations, they will take precedence over the Product regulations in handling the conflict.
+1. In the event that any Policy Object conflicts with the Community regulations (even if fully
+   compliant with other ones), they will take precedence over the Product regulations in handling
+   the conflict.
 2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t
    deprive the Laboratory administration of the right to apply it.
 3. Agreement with the Policy is not required for participation in the Policy Scope.
