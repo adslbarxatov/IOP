@@ -1,2 +1,2 @@
-_Changes for rev. 2_:
-- Paragraph numbering and specifications update from 22.12.24
+_Changes for rev. 3_:
+- Responsibility definitions and regulations simplification from 26.01.25

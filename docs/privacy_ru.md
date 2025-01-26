@@ -1,4 +1,5 @@
 # Политика конфиденциальности RD AAOW Free development lab на базе [Интегрированной операционной политики](https://adslbarxatov.github.io/IOP/ru)
+*Ревизия №3 от 26 января 2025 года*
 
 &nbsp;
 
