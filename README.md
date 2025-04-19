@@ -1,4 +1,4 @@
-# RD AAOW Free development lab’s Integrated operational policy (RD AAOW FDL IOP) 
+# RD AAOW Free development lab’s Integrated operational policy (RD AAOW FDL IOP)
 
 Open the [Policy page](https://adslbarxatov.github.io/IOP) to read it
 
