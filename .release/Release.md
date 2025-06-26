@@ -1,2 +1,2 @@
-_Changes for rev. 3_:
-- Responsibility definitions and regulations simplification from 26.01.25
+_Changes for rev. 4_:
+- Update for XPUN list from 27.06.25
