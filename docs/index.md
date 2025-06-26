@@ -1,5 +1,5 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP)
-*Revision #3 from January 26, 2025*
+*Revision #4 from June 27, 2025*
 
 &nbsp;
 
@@ -164,12 +164,10 @@ override this Policy. Namely:
 - Estonia
 - Germany
 - Ireland
-- Japan
 - Latvia
 - Lithuania
 - Luxembourg
 - Netherlands
-- Norway
 - Switzerland
 - United Kingdom
 

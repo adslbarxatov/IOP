@@ -8,6 +8,8 @@
 
 `rev. 3`: responsibility definitions and regulations simplification from 26.01.25
 
+`rev. 4`: update for XPUN list from 27.06.25
+
 &nbsp;
 
 
