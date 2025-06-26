@@ -1,5 +1,5 @@
 # RD AAOW Free development lab’s Privacy policy over the [Integrated operational policy](https://adslbarxatov.github.io/IOP)
-*Revision #3 from January 26, 2025*
+*Revision #4 from June 27, 2025*
 
 &nbsp;
 
