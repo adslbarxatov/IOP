@@ -10,6 +10,8 @@
 
 `rev. 4`: update for XPUN list from 27.06.25
 
+`rev. 5`: update for XPUN list and terms clarification from 24.08.25
+
 &nbsp;
 
 

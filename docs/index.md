@@ -1,5 +1,5 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP)
-*Revision #4 from June 27, 2025*
+*Revision #5 from August 24, 2025*
 
 &nbsp;
 
@@ -34,7 +34,7 @@ order are describing general rules that Laboratory follows in its work and when 
 and using Policy Objects.
 
 ⁽⁴⁾ ***The Policy is required to be acquainted with by all participants of the Policy Scope and users
-before using any of the Policy Objects. By starting to work with them, you fully agree with this Policy
+of Policy Objects. By starting to work with Policy Objects, you fully agree with this Policy
 and accept it!***
 
 &nbsp;
@@ -96,7 +96,7 @@ No malicious activities allowed in the Policy Scope, including:
 - disinformation
 - destructive criticism (that exists only for criticism and doesn’t contain constructive offers)
 
-*Participation in them or calls for such participation may be grounds for a permanent ban*.
+*Participation in them or calls for such participation may be grounds for a permanent restriction of access to the Policy Scope*.
 
 ### 2. Lab doesn’t deal with “sore issues”
 
@@ -104,12 +104,12 @@ The Policy Scope do not allow discussions, activities and measures on social, po
 and other topics, that most likely will cause counterproductive forms of activity described in Community
 regulation #1 of this Policy.
 
-*Forcing such discussions and activities can be grounds for a permanent ban*.
+*Forcing such discussions and activities can be grounds for a permanent restriction of access to the Policy Scope*.
 
 ### 3. Advertisements
 
 Advertisements in the Policy Scope are only allowed in case described in Product regulation #2 of this
-Policy. *Untargeted (generic) ads elements can be grounds for a permanent ban*.
+Policy. *Untargeted (generic) ads elements can be grounds for a permanent restriction of access to the Policy Scope*.
 
 ### 4. Lab doesn’t allow payments and / or restrictions for content
 
@@ -146,7 +146,7 @@ the content to Laboratory is listed as the creator of the content.
 
 # 5. XPUN control
 
-⁽¹⁾ Since 2020, some governments have introduced certain restrictive laws of disintegration nature in their territories
+⁽¹⁾ Some governments have introduced certain restrictive laws of disintegration nature in their territories
 that are incompatible with this Policy. The Laboratory sees it as its task to avoid any conflicts associated with
 this discrepancy. The only way to do this, available at the time of publication of this Policy revision, is to make
 all Policy Objects unavailable in those areas. In this regard, **XPUN control** was developed.
@@ -162,8 +162,10 @@ override this Policy. Namely:
 - Czech Republic
 - Denmark
 - Estonia
+- Finland
 - Germany
 - Ireland
+- Italy
 - Latvia
 - Lithuania
 - Luxembourg
