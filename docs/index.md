@@ -1,5 +1,5 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP)
-*Revision #5 from August 24, 2025*
+*Revision #6 from September 24, 2025*
 
 &nbsp;
 
@@ -153,8 +153,10 @@ all Policy Objects unavailable in those areas. In this regard, **XPUN control** 
 
 ⁽²⁾ This algorithm is present in all actual Policy Objects except those covered by other licenses and policies that
 override this Policy. Namely:
-- ESHQ mod
-- ES: Randomaze mod
+- ESHQ mod (located at ModDB → mods → ESHQ)
+- ES: Randomaze mod (located at ModDB → mods → ESRM)
+- ES: from aside mod (located at ModDB → mods → ESFA)
+- Crazy cheater's mod (located at ModDB → mods → CCM)
 
 ⁽³⁾ The only function of XPUN is to restrict the launch of Policy Objects in the following territories:
 - Belgium

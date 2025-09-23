@@ -1,4 +1,4 @@
-# [IOP](https://adslbarxatov.github.io/IOP) changelog 
+# [IOP](https://adslbarxatov.github.io/IOP) changelog
 
 ### IOP
 
@@ -11,6 +11,8 @@
 `rev. 4`: update for XPUN list from 27.06.25
 
 `rev. 5`: update for XPUN list and terms clarification from 24.08.25
+
+`rev. 6`: update for XPUN exclusion list from 24.09.25
 
 &nbsp;
 
