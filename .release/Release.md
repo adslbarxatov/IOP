@@ -1,2 +1,2 @@
-_Changes for rev. 5_:
-- Update for XPUN list and terms clarification from 24.08.25
+_Changes for rev. 6_:
+- Update for XPUN exclusion list from 24.09.25
