@@ -1,5 +1,5 @@
 # RD AAOW Free development lab’s Privacy policy over the [Integrated operational policy](https://adslbarxatov.github.io/IOP)
-*Revision #6 from September 24, 2025*
+*Revision #7 from April 18, 2026*
 
 &nbsp;
 
@@ -37,13 +37,13 @@ software), materials and developments of the Laboratory.
   accumulating or transferring of personal information. All data used by Policy Objects doesn’t leave the
   user device.
 
-### 3. Policy Objects may only use the following device parameters to ensure correct functionality and better user experience:
-1. Screen resolution and pixel density (to properly set the font size of interface elements).
-2. Availability (only presence / absence, without any details) of the web browser and the e-mail client (to
-   provide the access to our reference materials and the ability to send bug reports and recommendations).
-3. Availability (only presence / absence, without any details) of the internet connection (to provide the
-   access to our reference materials).
+### 3. Policy Objects may request the following device parameters to ensure correct functionality and better user experience:
+1. Screen resolution and pixel density – to properly set the font size of interface elements.
+2. Availability (only the fact of presence or absence) of the web browser and the e-mail client – to
+   provide the access to our reference materials and the ability to send bug reports and recommendations.
+3. Availability (only the fact of presence or absence) of the internet connection – to provide the
+   access to our reference materials.
 
-⁽⁴⁾ Some of these parameters may be subject to privacy policies of some device manufacturers and operating
-system developers. None of these parameters leave the user device in any way or form when using any of the
+⁽⁴⁾ These parameters may be subject to privacy policies of some device manufacturers and operating
+system developers. None of this data leaves the user device in any way or form when using any of the
 Policy Objects.
