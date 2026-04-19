@@ -1,5 +1,5 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP)
-*Revision #6 from September 24, 2025*
+*Revision #7 from April 18, 2026*
 
 &nbsp;
 
@@ -34,8 +34,8 @@ order are describing general rules that Laboratory follows in its work and when 
 and using Policy Objects.
 
 ⁽⁴⁾ ***The Policy is required to be acquainted with by all participants of the Policy Scope and users
-of Policy Objects. By starting to work with Policy Objects, you fully agree with this Policy
-and accept it!***
+of Policy Objects. By starting to work with Policy Objects and / or in the Policy Scope, you fully agree
+with this Policy and accept it!***
 
 &nbsp;
 
@@ -96,7 +96,8 @@ No malicious activities allowed in the Policy Scope, including:
 - disinformation
 - destructive criticism (that exists only for criticism and doesn’t contain constructive offers)
 
-*Participation in them or calls for such participation may be grounds for a permanent restriction of access to the Policy Scope*.
+*Participation in them or calls for such participation may be grounds for a permanent restriction of access
+to the Policy Scope*.
 
 ### 2. Lab doesn’t deal with “sore issues”
 
@@ -118,9 +119,9 @@ provided by the Laboratory to members and provided by members to the Laboratory 
 any payments, explicit and implied, subject to compliance with Product regulation #1 of this Policy.
 
 ⁽²⁾ All related rights issues are resolved by sender by himself before submitting of content. Non-free content
-is removed from Policy Scope.
+is removed from Policy Scope and Policy Objects.
 
-⁽³⁾ The indication of the content author is allowed. If there is no author information, the user who provided
+⁽³⁾ The indication of the content author is recommended. If there is no author information, the user who provided
 the content to Laboratory is listed as the creator of the content.
 
 &nbsp;
@@ -167,6 +168,7 @@ override this Policy. Namely:
 - Finland
 - Germany
 - Ireland
+- Israel
 - Italy
 - Latvia
 - Lithuania
@@ -201,13 +203,10 @@ doesn’t provide for any liability on the part of the Laboratory.
 
 # 7. Application order
 
-1. In the event that any Policy Object conflicts with the Community regulations (even if fully
-   compliant with other ones), they will take precedence over the Product regulations in handling
-   the conflict.
+1. Community regulations will take precedence over the Product regulations in handling the conflicts
+   of any Policy Object with the Community regulations even if fully compliant with other Policy sections.
 2. Acquaintance with a Policy is mandatory. Failure to become acquainted with the Policy doesn’t
    deprive the Laboratory administration of the right to apply it.
-3. Agreement with the Policy is not required for participation in the Policy Scope.
-4. Disagreement with the Policy is not the basis for any sanctions against members of the Policy Scope.
-5. Publication of Policy Objects those aren’t consistent with the Policy in materials,
+3. Publication of Policy Objects those aren’t consistent with the Policy in materials,
    comments and / or news feeds of the Policy Scope may be limited or terminated at decision of the
    administration.
