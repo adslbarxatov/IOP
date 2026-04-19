@@ -1,6 +1,6 @@
 _en_us_
 
-- Clarifications and update for XPUN exclusion list from 18.04.26
+- Clarifications and update for XPUN exclusion list from 18.04.26 
 
 ⁂
 
