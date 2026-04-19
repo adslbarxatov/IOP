@@ -14,6 +14,8 @@
 
 `rev. 6`: update for XPUN exclusion list from 24.09.25
 
+`rev. 7`: clarifications and update for XPUN exclusion list from 18.04.26
+
 &nbsp;
 
 
