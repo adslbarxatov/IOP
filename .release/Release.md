@@ -1,11 +1,11 @@
 _en_us_
 
-- Clarifications and update for XPUN exclusion list from 18.04.26 
+- Partial permission for autoupdating, clarification of positions and actions from 30.08.26
 
 ⁂
 
 _ru_ru_
 
-- Уточнения и обновление списка исключений XPUN-листа от 18.04.26
+- Частичное разрешение на автоматическое обновление, уточнение позиций и действий от 30.08.26
 
 ⁂
