@@ -100,8 +100,8 @@ communication channels with the Laboratory.
 - disinformation
 - destructive criticism (that exists only for criticism and doesn’t contain constructive offers)
 
-⁽²⁾ *Participation in them or calls for such participation may be grounds for a permanent restriction of access
-to the Policy Scope*.
+⁽²⁾ Participation in them or calls for such participation may be grounds for a permanent restriction of access
+to the Policy Scope.
 
 ### 2. Lab doesn’t deal with “sore issues”
 
@@ -109,12 +109,14 @@ to the Policy Scope*.
 and other topics, that most likely will cause counterproductive forms of activity described in Community
 regulation #1 of this Policy.
 
-⁽²⁾ *Forcing such discussions and activities can be grounds for a permanent restriction of access to the Policy Scope*.
+⁽²⁾ Forcing such discussions and activities can be grounds for a permanent restriction of access to the Policy Scope.
 
 ### 3. Advertisements
 
-Advertisements in the Policy Scope are only allowed in case described in Product regulation #2 of this
-Policy. *Untargeted (generic) ads elements can be grounds for a permanent restriction of access to the Policy Scope*.
+⁽¹⁾ Advertisements in the Policy Scope are only allowed in case described in Product regulation #2 of this
+Policy.
+
+⁽²⁾ Untargeted (generic) ads elements can be grounds for a permanent restriction of access to the Policy Scope.
 
 ### 4. Lab doesn’t allow payments and / or restrictions for content
 
