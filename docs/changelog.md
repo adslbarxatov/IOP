@@ -16,6 +16,8 @@
 
 `rev. 7`: clarifications and update for XPUN exclusion list from 18.04.26
 
+`rev. 8`: partial permission for autoupdating, clarification of positions and actions from 30.08.26
+
 &nbsp;
 
 

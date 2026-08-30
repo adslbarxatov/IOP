@@ -1,5 +1,5 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Integrated operational policy (FDL IOP)
-*Revision #7 from April 18, 2026*
+*Revision #8 from August 30, 2026*
 
 &nbsp;
 
@@ -57,9 +57,12 @@ All references can only be activated by the user and only manually, i.e. they ha
 
 ### 3. Lab doesn’t use autoupdate
 
-None of Policy Objects can update its functionality without the direct participation of the user.
+⁽¹⁾ None of Policy Objects can update its functionality without the direct participation of the user.
 Non-executable content may be updated automatically if the correct functioning of the Object becomes
 impossible without it.
+
+⁽²⁾ Automatic updating of executable content is only allowed for the DPArray app store as an optional
+feature and is disabled by default.
 
 ### 4. Lab doesn’t use hidden functionality
 
@@ -86,9 +89,10 @@ communication channels with the Laboratory.
 
 ### 1. Lab is against of hurting
 
-No malicious activities allowed in the Policy Scope, including:
+⁽¹⁾ No malicious activities allowed in the Policy Scope, including:
 - direct offends
 - bullying
+- insults against people and Policy Objects
 - deliberate non-pecuniary harm
 - deliberate physical damage
 - direct threats
@@ -96,16 +100,16 @@ No malicious activities allowed in the Policy Scope, including:
 - disinformation
 - destructive criticism (that exists only for criticism and doesn’t contain constructive offers)
 
-*Participation in them or calls for such participation may be grounds for a permanent restriction of access
+⁽²⁾ *Participation in them or calls for such participation may be grounds for a permanent restriction of access
 to the Policy Scope*.
 
 ### 2. Lab doesn’t deal with “sore issues”
 
-The Policy Scope do not allow discussions, activities and measures on social, political, economic
+⁽¹⁾ The Policy Scope do not allow discussions, activities and measures on social, political, economic
 and other topics, that most likely will cause counterproductive forms of activity described in Community
 regulation #1 of this Policy.
 
-*Forcing such discussions and activities can be grounds for a permanent restriction of access to the Policy Scope*.
+⁽²⁾ *Forcing such discussions and activities can be grounds for a permanent restriction of access to the Policy Scope*.
 
 ### 3. Advertisements
 
@@ -195,7 +199,7 @@ doesn’t provide for any liability on the part of the Laboratory.
   and / or removing elements and / or functions, changing the internal composition, functionality
   and / or external presentation)
 
-***The Laboratory does not and cannot guarantee the compliance of such Objects with this Policy***.
+⁽³⁾ ***The Laboratory does not and cannot guarantee the compliance of such Objects with this Policy***.
 
 &nbsp;
 
